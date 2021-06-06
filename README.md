@@ -5,4 +5,4 @@
   clip-path: circle(180vh at 50% -92vh);
 ```
 ## Clip-path Generator 
-[https://bennettfeely.com/clippy]
+[Clippy](https://bennettfeely.com/clippy)
